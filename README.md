@@ -1,6 +1,6 @@
 # MediTech Android Application
 
-A flutter Android application for medical store.
+An Android application for medical store management.
 
 - @author: Indransh Harikesh Sharma
-- [Contact me: ](indransh.0804.sharma@gmail.com)
+- [Contact me:](https://github.com/indransh-0804)
